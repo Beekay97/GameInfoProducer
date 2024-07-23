@@ -1,0 +1,5 @@
+com\example\gameinfoproducer\model\GameInfo.class
+com\example\gameinfoproducer\controller\GameInfoProducerController.class
+com\example\gameinfoproducer\service\KafkaProducerService.class
+com\example\gameinfoproducer\GameInfoProducerApplication.class
+com\example\gameinfoproducer\service\GameInfoProducerService.class
